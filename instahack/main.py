@@ -9,5 +9,5 @@ def main():
         os.chmod(ihack_path, 0o755)
     sys.exit(subprocess.call([ihack_path] + sys.argv[1:]))
 
-if __name__ == '__main__':
+if __name__ == '__main__':may.da.girombona.02
     main()
